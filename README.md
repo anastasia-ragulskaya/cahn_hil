@@ -57,7 +57,7 @@ The Cahn-Hilliard modeling is widely used for the description of phase separatin
 
 ## Results
 
-The current code simulates the evolution of the concentration 2D map with the posibility of creation .avi video and calculates the corresponding scattering pattern, which can be used for further analysis. The results are saved in the corresponding .mat files. The example of the simulated concentration map is presented below:
+The current code simulates the evolution of the concentration 2D map with the possibility of creation .avi video and calculates the corresponding scattering pattern, which can be used for further analysis. The results are saved in the corresponding .mat files. The example of the simulated concentration map is presented below:
 
 ![u_0 3_0 1_0 006_15300_simple_resolution (1)](https://user-images.githubusercontent.com/82273226/214304391-c5737c6c-91a7-4e5b-a565-0f7f0cdedd69.gif)
 
